@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const products = [
   { id: 1, name: "Kulkas 2 Pintu - Sharp SJ-236MG", price: 2749000, image: "/images/kulkas.jpg" },
-  { id: 2, name: "Mesin Cuci - LG 7 Kg Front Load", price: 4100000, image: "/images/mesin-cuci.jpg" },
+  { id: 2, name: "Mesin Cuci - LG 7 Kg Front Load", price: 4100000, image: "/images/mesincuci.jpg" },
 ];
 
 export default function SearchPageContent() {
